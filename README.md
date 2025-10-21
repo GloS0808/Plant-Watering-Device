@@ -15,5 +15,3 @@ This project creates an automated plant watering device that monitors soil moist
 - Water level detection
 - Energy-efficient operation
 - Easy-to-assemble design
-
-## Project Structure
